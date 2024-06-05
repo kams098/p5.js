@@ -1,40 +1,13 @@
-[![npm version](https://badge.fury.io/js/p5.svg)](https://www.npmjs.com/package/p5)
-[![All Contributors](https://img.shields.io/github/all-contributors/processing/p5.js?color=ee8449&style=flat-square)](#contributors)
-[![Total Downloads](https://img.shields.io/npm/dt/p5)](https://www.npmjs.com/package/p5)
-
-# [p5.js](https://p5js.org)
-
- Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
-
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
-
-Using the metaphor of a sketch, p5.js has a full set of drawing functionality using the HTML5 canvas element. You’re not limited to the drawing canvas though. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
-
-p5.js draws inspiration, wisdom, and guidance from its precursor [Processing](https://processing.org). However, it is a new interpretation, not an emulation or port. We don't aim to match Processing's set of functionality exactly, allowing ourselves space to deviate and grow in the context of the web.
-
-The [p5js.org](https://p5js.org) website contains an extensive overview of the project, community, documentation, and examples. If you already know the basics of JavaScript or Processing, the [p5.js overview](https://github.com/processing/p5.js/wiki/p5.js-overview) wiki page is a good place to start.
-
-## Community
-
-We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
-
-p5.js is a collaborative project created by many individuals, mostly volunteers, and you are invited to help. All types of involvement are welcome. See the [community section](https://p5js.org/community) to get started! You can also check out the [contributor docs](https://p5js.org/contributor-docs/#/) for more in-depth details about contributing to different areas of the project, including code, bug fixes, documentation, discussion, and more.
-
-Learn more about [our community](https://p5js.org/community/) and read our community statement and [code of conduct](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md). You can directly support our work with p5.js by [donating to the Processing Foundation](https://processingfoundation.org/support).
-
-## Get Started
-
-Make your first sketch in the [p5.js Editor](https://editor.p5js.org/)! Learn more about sketching with p5.js on the [Get Started](https://p5js.org/get-started/) and find everything you can do in the [Reference](https://p5js.org/reference/).
-
-To get the complete p5.js library on your own computer, you can [download it here](https://p5js.org/download). If you are interested in the most recent, less stable version, or even simply in (**new!**) certain components of p5.js, you can clone this repository and run `grunt` from the command line to generate the library from source. See the [contributor docs](https://p5js.org/contributor-docs/#/) for more information about our build process.
 
 
-## Learning
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">sei la</span> is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
-Check out [p5js.org](https://p5js.org) for lots more! Here are some quick-links to get started learning p5.js.
 
-* [Get Started](https://p5js.org/get-started): Create and run your first sketch!
-* [p5.js overview](https://github.com/processing/p5.js/wiki/p5.js-overview): An overview of the main features and functionality of p5.js
+
+
+
+
+
 * [Reference](https://p5js.org/reference): The functionality supported by p5.js
 * [Learn](https://p5js.org/learn): Tutorials and short, prototypical examples exploring the basics of p5.js
 * [Forum](https://discourse.processing.org/c/p5js): Ask and answer questions about how to make things with p5.js here
